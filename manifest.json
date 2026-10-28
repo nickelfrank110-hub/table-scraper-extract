@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Quick Table to CSV Scraper",
+  "version": "1.0",
+  "description": "Extract tabular data grids from any webpage into a clean CSV spreadsheet with a single click.",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
